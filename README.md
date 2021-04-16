@@ -3,7 +3,7 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Size](https://img.shields.io/github/repo-size/timvvoodman/Movie-Rating-Search)
-![Language](https://img.shields.io/github/languages/top/timvvoodman/Movie-Rating-Search)
+![Language](https://img.shields.io/github/languages/top/timvvoodman/Movie-Rating-Searchgit)
 
 ## Application Description
 
@@ -26,7 +26,7 @@ quite remember? Use Movie Rating Search!
 
 ## Demo
 
-View the application at [Deployed Project Link](Link)
+View the application [Here!](https://timvvoodman.github.io/Movie-Rating-Search/)
 
 ## Technology Stack
 
