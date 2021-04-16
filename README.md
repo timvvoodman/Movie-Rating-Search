@@ -3,7 +3,7 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Size](https://img.shields.io/github/repo-size/timvvoodman/Movie-Rating-Search)
-![Language](https://img.shields.io/github/languages/top/timvvoodman/Movie-Rating-Searchgit)
+![Language](https://img.shields.io/github/languages/top/timvvoodman/Movie-Rating-Search)
 
 ## Application Description
 
